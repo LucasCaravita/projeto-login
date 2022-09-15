@@ -3,6 +3,8 @@
 @media screen and (min-width: 768px) /*Dispositivos maiores*/
 {
     section#login{
+        position: absolute;
+        transform: translate(-50% , -80%);
         width: 600px;
         height: 300px;
     }
